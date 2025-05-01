@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "daam"
-version = "0.2.2"
+version = "0.2.3"
 description = ""
 authors = ["rockerBOO <rockerboo@gmail.com>"]
 readme = "README.md"
